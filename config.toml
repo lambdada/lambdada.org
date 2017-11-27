@@ -1,0 +1,21 @@
+baseURL = "http://lambdada.org/"
+languageCode = "fr"
+title = "lambdada.org"
+theme = "hugo-xmin"
+publishDir = "docs"
+
+[[menu.main]]
+    name = "Acceuil"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "Catégories"
+    url = "/categories/"
+    weight = 3
+[[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 4
+[[menu.main]]
+    name = "RSS"
+    url = "/index.xml"
