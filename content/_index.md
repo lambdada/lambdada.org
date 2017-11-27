@@ -1,3 +1,6 @@
+---
+title: Acceuil
+---
 
 ![Example image](/img/lambdada.png)
 
