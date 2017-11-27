@@ -17,11 +17,12 @@ Nous sommes également une communauté du bon goût et de l'élégance pour tous
 ceux que le code intéresse, séduit, amuse, irrite, énerve, agace, fascine,
 passionne, effraie...
 
-# Le meetup
+# Les vidéos conférences
 
-Notre meetup se réunit en video conférence.
+Notre groupe se réunit en video conférence.
 
 Vous pouvez participer depuis la France entière. Il vous suffit d'installer le logiciel [Zoom](https://zoom.us/) pour vous connecter.
 
+[Inscrivez-vous](https://framalistes.org/sympa/subscribe/lambdada) dès maintenant sur la [mailing liste](https://framalistes.org/sympa/info/lambdada) afin d'être notifié des prochaines réunions.
 
-[Inscrivez-vous dès maintenant sur Meetup.com](https://www.meetup.com/fr-FR/Lambdada/)
+
