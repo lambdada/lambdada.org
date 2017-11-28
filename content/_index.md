@@ -1,5 +1,5 @@
 ---
-title: Acceuil
+title: Accueil
 ---
 
 ![Example image](/img/lambdada.png)

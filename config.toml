@@ -5,7 +5,7 @@ theme = "hugo-xmin"
 publishDir = "docs"
 
 [[menu.main]]
-    name = "Acceuil"
+    name = "Accueil"
     url = "/"
     weight = 1
 [[menu.main]]
