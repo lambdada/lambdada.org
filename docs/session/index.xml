@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Accueil on lambdada.org</title>
-    <link>http://lambdada.org/</link>
-    <description>Recent content in Accueil on lambdada.org</description>
+    <title>lambdada.org</title>
+    <link>http://lambdada.org/session/</link>
+    <description>Recent content on lambdada.org</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>Wed, 20 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://lambdada.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://lambdada.org/session/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

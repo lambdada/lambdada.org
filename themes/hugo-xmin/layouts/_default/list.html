@@ -6,6 +6,13 @@
 
 {{ .Content }}
 
-
+{{if eq .Type "list" }} 
+{{ range (where .Data.Pages "Section" "!=" "").Reverse }}
+<p>
+    <b><a href="{{ .URL }}">{{ .Title }}</a></b>
+    <span class="date">(<i>{{ .Date.Format "2006/01/02" }}</i>)</span>
+</p>
+{{ end }}
+{{end}}
 
 {{ partial "footer.html" . }}

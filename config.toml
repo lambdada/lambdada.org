@@ -9,13 +9,9 @@ publishDir = "docs"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "Catégories"
-    url = "/categories/"
-    weight = 3
-[[menu.main]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 4
+    name = "Sessions"
+    url = "/session/"
+    weight = 3    
 [[menu.main]]
     name = "RSS"
     url = "/index.xml"
