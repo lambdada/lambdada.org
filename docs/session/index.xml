@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>lambdada.org</title>
+    <title>Sessions on lambdada.org</title>
     <link>http://lambdada.org/session/</link>
-    <description>Recent content on lambdada.org</description>
+    <description>Recent content in Sessions on lambdada.org</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>Tue, 13 Mar 2018 00:00:00 +0000</lastBuildDate>
