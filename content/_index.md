@@ -2,7 +2,7 @@
 title: Accueil
 ---
 
-![Example image](/img/lambdada.png)
+![Lambdada](/img/lambdada.png)
 
 # Lambdada
 

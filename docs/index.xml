@@ -6,10 +6,42 @@
     <description>Recent content in Accueil on lambdada.org</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 20 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://lambdada.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Prochaine session</title>
+      <link>http://lambdada.org/session/4/</link>
+      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://lambdada.org/session/4/</guid>
+      <description>La prochaine session est prévue pour le jeudi 15 mars à 21h00.
+Inscrivez vous sur la mailing liste afin de recevoir les informations de connexion à Zoom.</description>
+    </item>
+    
+    <item>
+      <title>Session 3 - Introduction à Idris</title>
+      <link>http://lambdada.org/session/3/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://lambdada.org/session/3/</guid>
+      <description>Mercredi 15 février 2018 Arnaud Bailly est de retour parmis nous, avec cette fois une introduction au langage Idris.
+Nicolas Biri nous a rejoint pour l&amp;rsquo;occasion. Il a eté réviseur pour le livre de référence sur Idris, recemment édité chez Manning par l&amp;rsquo;auteur du langage: Type-Driven Development with Idris
+Ils nous offrent tous les deux une magnifique session d&amp;rsquo;introduction, accessible aux débutants que nous sommes, et qui donne un bel appercu de la puissance du langage.</description>
+    </item>
+    
+    <item>
+      <title>Session 2 - Parser combinators en Kotlin</title>
+      <link>http://lambdada.org/session/2/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://lambdada.org/session/2/</guid>
+      <description>Mercredi 17 janvier 2018 Pour cette 2ème édition des rendez-vous de Lambdada, Didier Plaindoux nous a fait fait la joie de nous préparer une session très complète sur les Parser combinators.
+Il a choisi de nous présenter une implémentation en Kotlin.
+Vous pourrez ainsi découvrir la manière dont on peut utiliserce langage dont la popularité ne cesse de progresser pour implémenter des concepts fonctionnels assez sophistiqués.</description>
+    </item>
     
     <item>
       <title>Session 1 - Haskell Lens</title>
@@ -23,14 +55,15 @@ Attentes Josselin souhaite découvrir de nouvelles choses en dehors des sujets m
     </item>
     
     <item>
-      <title>Prochaine session</title>
-      <link>http://lambdada.org/session/2/</link>
-      <pubDate>Tue, 17 Jan 2017 00:00:00 +0000</pubDate>
+      <title>Pour publier un article</title>
+      <link>http://lambdada.org/article/1/</link>
+      <pubDate>Mon, 13 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://lambdada.org/session/2/</guid>
-      <description>La prochaine session est prévue pour le mercredi 17 janvier 2018 à partir de 21h00.
-Vous pouvez l&amp;rsquo;ajouter dans votre google calendar avec ce lien
-Inscrivez vous sur la mailing liste afin d&amp;rsquo;être notifiés de l&amp;rsquo;invitation Zoom.</description>
+      <guid>http://lambdada.org/article/1/</guid>
+      <description>Ce site est web est à la disposition des membres de la communauté afin de publier des articles ou tout autre contenu qu&amp;rsquo;elles-ils jugent pertinent.
+N&amp;rsquo;hesitez pas à faire un pull request sur le repo du site: https://github.com/lambdada/lambdada.org
+Un résumé des étapes pour publier un article:
+ Installer hugo sur votre machine Forker et cloner le repo Ajouter votre article au format markown dans le répertoire des contenus Faire une pull request dans github  Alternativement, vous pouvez publier vos questions, idées et articles sur la mailing liste ou même en tant qu&amp;rsquo;issues github.</description>
     </item>
     
   </channel>

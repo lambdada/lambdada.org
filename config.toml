@@ -11,7 +11,11 @@ publishDir = "docs"
 [[menu.main]]
     name = "Sessions"
     url = "/session/"
-    weight = 3    
+    weight = 2    
+[[menu.main]]
+    name = "Articles"
+    url = "/article/"
+    weight = 3  
 [[menu.main]]
     name = "RSS"
     url = "/index.xml"
